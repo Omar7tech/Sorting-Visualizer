@@ -3,7 +3,7 @@
 Sortify7 is a sorting algorithm visualization tool built with React. It allows you to visualize various sorting algorithms in action, helping you understand how they work and compare their performance.
 
 ## Screenshots
-<img src="https://github.com/Omar7tech/screenshots/blob/main/sorting-visualization1.PNG" alt="Screenshot" width="800">
+<img src="https://github.com/Omar7tech/screenshots/blob/main/sortingv.PNG" alt="Screenshot" width="800">
 
 ## Features
 
