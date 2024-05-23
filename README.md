@@ -1,3 +1,62 @@
+# Sortify7
+
+Sortify7 is a sorting algorithm visualization tool built with React. It allows you to visualize various sorting algorithms in action, helping you understand how they work and compare their performance.
+
+## Features
+
+- Visualize popular sorting algorithms such as Bubble Sort, Quick Sort, Merge Sort, and more.
+- Adjustable animation speed to control the visualization playback.
+- Select different sorting algorithms from a dropdown menu.
+- Reset button to reset the array and animation.
+- Responsive design for use on different screen sizes.
+
+## Demo
+
+[Live Demo](http://t.ly/oYR3e)
+
+## Getting Started
+
+To run Sortify7 locally, follow these steps:
+
+1. Clone this repository: `git clone <repository-url>`
+2. Navigate to the project directory: `cd sortify7`
+3. Install dependencies: `npm install`
+4. Start the development server: `npm start`
+5. Open your browser and visit: `http://localhost:3000`
+
+## Usage
+
+- Select a sorting algorithm from the dropdown menu.
+- Adjust the animation speed using the slider.
+- Click the play button to start the visualization.
+- Click the reset button to reset the array and animation.
+
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to Sortify7, please follow these steps:
+
+1. Fork this repository
+2. Create a new branch: `git checkout -b feature-name`
+3. Make your changes
+4. Commit your changes: `git commit -am 'Add new feature'`
+5. Push to the branch: `git push origin feature-name`
+6. Submit a pull request
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+
+For any inquiries or feedback, feel free to reach out to the project maintainer:
+
+- **Omar Abi Farraj**
+  - Website: [omar7tech.com](https://omar7tech.com)
+  - Email: omar7tech@gmail.com
+  - GitHub: [github.com/omar7tech](https://github.com/omar7tech)
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
